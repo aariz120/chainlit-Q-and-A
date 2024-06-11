@@ -6,6 +6,7 @@ chainlit Q-and-A
 
 ```bash
 conda create -n chainqna python=3.10 -y
+```
 
 2. Activate Environment
 
