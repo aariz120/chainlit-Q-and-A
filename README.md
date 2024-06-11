@@ -11,8 +11,10 @@ conda create -n chainqna python=3.10 -y
 
 ```bash
 conda activate chainqna
+```
 
 3. Requirement Added
 
 ``` bash
 pip install -r requirements.txt
+```
